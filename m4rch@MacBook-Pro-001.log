@@ -1,0 +1,71 @@
+Analysis of m4rch@MacBook-Pro-001 started at 14-03-2022 17:36:25
+
+
+ -- Platform --
+
+OS: Darwin 19.6.0, aka "posix"
+Home path: /Users/m4rch
+
+
+ -- Python --
+
+Python version 3.9.10
+Command python is available at:
+ /Users/m4rch/environments/jupenv/bin/python
+python is executable from:
+ /Users/m4rch/environments/jupenv/bin/python
+Command python2 is available at:
+ /usr/bin/python2
+python2 is executable from:
+ /usr/bin/python2
+Command python3 is available at:
+ /Users/m4rch/environments/jupenv/bin/python3
+python3 is executable from:
+ /Users/m4rch/environments/jupenv/bin/python3
+
+
+ -- Pip --
+
+Command pip is available at:
+ /Users/m4rch/environments/jupenv/bin/pip
+pip is executable from:
+ /Users/m4rch/environments/jupenv/bin/pip
+"pip --version" :
+ pip 21.3.1 from /Users/m4rch/environments/jupenv/lib/python3.9/site-pack...
+Command pip3 is available at:
+ /Users/m4rch/environments/jupenv/bin/pip3
+pip3 is executable from:
+ /Users/m4rch/environments/jupenv/bin/pip3
+"pip3 --version" :
+ pip 21.3.1 from /Users/m4rch/environments/jupenv/lib/python3.9/site-pack...
+
+
+ -- Venv --
+
+"python -m venv -h" :
+ usage: venv [-h] [--system-site-packages] [--symlinks | --copies] [--cle...
+Environnement folder is: /Users/m4rch/environments
+
+
+ -- Idle --
+
+Command idle is available at:
+ /usr/bin/idle
+idle is executable from:
+ /usr/bin/idle
+
+
+ -- Jupyter --
+
+Jupyter is installed at:
+ /Users/m4rch/environments/jupenv
+
+
+ -- PyCharm --
+
+Cannot check PyCharm installation @ Darwin
+
+
+Analysis of m4rch@MacBook-Pro-001 completed at 14-03-2022 17:36:27
+
+####/Applications/PyCharm CE.app
