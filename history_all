@@ -1,0 +1,616 @@
+python --version
+pwd
+virtualenv
+brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew
+brew doctor
+brew list
+brew install virtualenv
+python3 --version
+python3 -m pip install pip
+python3 -m pip install --upgrade pip
+python3 -m pip install --user --upgrade pip
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
+pwd
+mkdir python
+cd python
+ls
+mkdir 1
+cd 1
+virtualenv -p python .env
+ls
+ls -la
+. ./.env/bin/activate
+python --version
+pwd
+deactivate
+python --version
+python3 --version
+cd ..
+ls
+code
+code
+code
+ls
+cd Downloads
+ls
+code .
+pwd
+ls -la
+cd python
+ls
+cd ..
+cd Downloads
+ls
+ls -la
+cd ..
+cd Documents/ls -la
+cd Documents
+pwd
+ls -la
+mkdir Muzik
+cd Muzik
+ls
+virtualenv -p python .venv
+. .venv/bin/activate
+python -m pip install yt-dlp
+ls
+ls -la
+python -m yt-dlp
+python -m yt_dlp https://www.youtube.com/watch?v=MhRkK5pTyoE
+python -m yt_dlp "https://www.youtube.com/watch?v=MhRkK5pTyoE"
+ls -la
+vlc .
+brew vlc
+brew install vlc
+python -m yt_dlp "https://www.youtube.com/watch?v=zEZ7ok1pZqs"
+ls -la
+python -m yt_dlp "https://www.youtube.com/watch?v=XQsBudx-a4I"
+code
+pwd
+which code
+code
+code
+code
+envvars
+man envvars
+echo $PATH
+ls -la /sbin
+echo $PATH
+ls -la /usr/sbin
+cd /Applications
+ls
+ls -la
+pwd
+cd //
+cd /
+ls -la
+pwd
+mount
+tree
+cd /bin
+ls
+cd ..
+ls -la
+cd usr
+ls -la
+cd local
+ls
+cd bin
+ls
+pwd
+echo PATH
+echo $PATH
+cd ..
+cd ..
+cd ..
+df
+df -h
+cd Downloads/DivZ/untitled\ folder/untitled\ folder
+ls
+virtualenv -p python .env
+. .env/bin/activate
+python -m pip install yt-dlp
+python -m yt_dlp "https://www.pornhub.com/view_video.php?viewkey=ph61812555afb21"
+pwd
+cd Downloads
+ls
+cd DivZ/untitled\ folder/untitled\ folder
+ls
+brew install vlc
+ls
+vlc
+python -m yt_dlp "https://www.pornhub.com/view_video.php?viewkey=ph5b6399c646f3a"
+pwd
+ls -la
+. .env/bin/activate
+python -m yt_dlp "https://www.pornhub.com/view_video.php?viewkey=ph5b6399c646f3a"
+python -m yt_dlp "https://www.pornhub.com/view_video.php?viewkey=ph60ca5f03200a3"
+python -m yt_dlp "https://www.pornhub.com/view_video.php?viewkey=ph5e887edc96895"
+pwd
+ls
+cd Downloads
+ls
+mkdir Muzik
+cd Muzik
+. ../DivZ/untitled\ folder/untitled\ folder/.env/bin/activate
+python -m yt_dlp "https://www.youtube.com/watch?v=MhRkK5pTyoE"
+python -m yt_dlp "https://www.youtube.com/watch?v=9QrTtuO5vqY"
+python -m yt_dlp "https://www.youtube.com/watch?v=U_ncOEUcWdU"
+brew install p7zip
+brew install rar
+mount
+cd /Volumes/M4RCH_BCK
+ls
+cd EmulZ
+ls
+7z x snes.rar
+ls -la
+ls -la
+cd /Users/m4rch/Downloads/DivZ/EmulZ
+ls
+7z x snes.rar
+rar
+rar
+ls
+rm -rf Super\ Nintendo\ Entertainment\ System
+rar xr snes.rar
+rar -xr snes.rar
+rar -x snes.rar
+ls -la
+rar x snes.rar
+pwd
+cd Downloads/DivZ/untitled\ folder/untitled\ folder
+ls -la
+ls -la
+vlc
+vlc
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd Muzik
+. ../../Downloads/DivZ/untitled\ folder/untitled\ folder/.env/bin/activate
+python -m yt_dlp "https://www.youtube.com/watch?v=AhR4-OIdrdo"
+python -m yt_dlp "https://www.youtube.com/watch?v=xvqeSJlgaNk"
+python -m yt_dlp "https://www.youtube.com/watch?v=kpt1QBwZGrI"
+python -m yt_dlp "https://www.youtube.com/watch?v=9axLicI-9PQ"
+python -m yt_dlp "https://www.youtube.com/watch?v=AgiGIfrZ2HI"
+python -m yt_dlp "https://www.youtube.com/watch?v=EtunN6ZdcfU"
+python -m yt_dlp "https://www.youtube.com/watch?v=ckfPMZfWXqU"
+cd ..
+cd DivZ/untitled\ folder/untitled\ folder
+ls
+python -m yt_dlp "https://www.youporn.com/watch/13706429/please-cum-in-my-ass/"
+pwd
+source /Users/m4rch/python/Udemy/django_py_fullstack/.venv/bin/activate
+ls
+ls -la
+cd python
+ls
+mkdir Udemy
+cd Udemy
+mkdir django
+mkdir django_py_fullstack
+cd django_py_fullstack
+virtualenv -p python .venv
+ls
+ls -la
+. .venv/bin/activate
+ls
+code .
+code .
+code .
+chflags nohidden Ëƒ¼/Library/
+chflags nohidden /Users/m4rch/Library
+cd Documents/EmulZ
+ls
+ls -la
+unrar xr Nintendo\ DS.rar
+unrar xr Nintendo\ DS.rar
+unrar -x -r Nintendo\ DS.rar
+unrar -xr Nintendo\ DS.rar
+unrar x -r Nintendo\ DS.rar
+unrar x -r Nintendo\ Game\ Boy\ Advance.rar
+unrar x -r snes.rar
+unrar x -r Neo\ Geo\ AES.rar
+python enigma.py(teste)
+python enigma.py
+python enigma.py teste.txt
+python
+python
+python teste.py
+python teste.py
+python teste.py
+python teste.py
+python teste.py
+python teste.py
+python enigma.py
+python enigma.py
+source /Users/m4rch/python/enigma/py-enigma/.venv/bin/activate
+python enigma.py
+python enigma.py
+pip freeze
+pip install requirements.txt
+pip install -r requirements.txt
+python enigma.py
+pip install pandas enigma
+python enigma.py
+pip install pandas enigma.machine
+pip install py-enigma
+pip install --upgrade py-enigma
+pip install --upgrade pip
+python enigma.py
+clear
+clear
+python enigma.py
+python enigma.py
+python enigma.py
+python enigma.py
+python enigma.py
+python enigma.py
+python enigma.py
+multipass list
+ifconfig
+ping 10.0.2.15
+LS
+cd Documents
+ls
+cd ..
+ls
+cd python
+ls
+mkdir enigma
+cd enigma
+ls
+virtualenv -p python .venv
+gitclone https://github.com/ScienceKot/Enigma.git
+git clone https://github.com/ScienceKot/Enigma.git
+ls
+ls -la
+cd Enigma
+ls
+. ./.venv/bin/activate
+ls -la
+. ../.venv/bin/activate
+code .
+cd ..
+ls
+mkdir py-enigma
+cd py-enigma
+ls
+code .
+deactivate
+virtualenv -p python .venv
+ls
+. .venv/bin/activate
+pip install py-enigma
+pip freeze > requirements.txt
+code .
+pip --version
+pip install pipdeptree
+pipdeptree
+cd ..
+cd ..
+cd ..
+pwd
+deactivate
+ls
+sudo multipass
+sudo multipass set local.driver=virtualbox
+multipass launch --name ubuntu
+multipass list
+multipass shell
+multipass list
+multipass networks
+multipass
+multipass info
+multipass info --all
+multipass
+multipass shell --ubuntu
+multipass shell ubuntu
+multipass list
+multipass
+multipass stop --all
+multipass list
+multipass delete ubuntu
+multipass list
+multipass purge ubuntu
+multipass purge
+multipass list
+multipass info --all
+ls
+cd Documents/EmulZ
+ls
+cd ..
+ls
+ls -la
+cd EmulZ
+ls -la
+cd ..
+cd ..
+cd Downloads
+ls -la
+cd DivZ/untitled\ folder/untitled\ folder
+ls
+ls -la
+. .env/bin/activate
+python -m yt_dlp "https://www.youporn.com/watch/15440012/after-i-came-i-put-my-dick-inside-my-stepmom-little-brother-on-the-way/"
+python -m yt_dlp -F "https://www.youporn.com/watch/14128141/masturbation-sodomy-cum-in-my-ass/"
+python -m yt_dlp -f 720p-4000k  "https://www.youporn.com/watch/14128141/masturbation-sodomy-cum-in-my-ass/"
+ls
+ls -la
+cd ..
+cd ..
+ls
+ls 
+cd untitled\ folder/untitled\ folder
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+ls
+cd python
+ls
+cd jeux_amanda
+ls
+virtualenv -p python .venv
+. ./.venv/bin/activate
+code .
+ sw_vers -productVersion
+idle
+idle3
+python3 -m idle
+python --version
+idle
+idle3
+pip install idle3
+pip install idle
+idle
+pip install idle-python
+idle
+ls /usr/local/bin | grep idle
+ls /usr/ | grep idle
+which python
+ls -l .venv/bin
+ls /usr/local/opt/python@3.10/bin | grep idle
+/usr/local/opt/python@3.10/bin/idle3
+/usr/local/opt/python@3.10/bin/idle3.10
+brew install idle3
+deactivate
+/usr/local/opt/python@3.10/bin/idle3.10
+/usr/local/opt/python@3.10/bin/idle3
+/usr/local/opt/python@3.10/bin/idle
+/usr/local/opt/python@3.10/bin/idle3
+brew install tkinter
+brew install tcl-tk
+/usr/local/opt/python@3.10/bin/idle3
+brew install python-tk
+/usr/local/opt/python@3.10/bin/idle3
+python --version
+python3 --version
+/usr/local/opt/python@3.9/bin/idle3
+ln --man
+ln -l /usr/local/opt/python@3.9/bin/idle3 /usr/local/bin/idle3
+ln -s /usr/local/opt/python@3.9/bin/idle3 /usr/local/bin/idle3
+/usr/local/bin/idle3
+idle3
+idle3
+source /Users/m4rch/python/jeux_amanda/.venv/bin/activate
+pip install django
+django-admin startproject rome .
+python manage.py runserver
+python manage.py creatapp main
+python manage.py startapp main
+python manage.py runserver
+python manage.py migrate
+python manage.py runserver
+python manage.py runserver
+ls
+cd python
+ls
+cd ..
+ls
+cd Documents
+ls
+cd ..
+ls
+cd Downloads
+ls
+cd ..
+ls
+pwd
+cd python
+ls
+cd WebScrapping
+ls
+ls -la
+cd ..
+ls
+cd WebScrap
+ls
+. ./env/bin/activate
+pip freeze
+python --version
+deactivate
+cd env
+ls
+cd ..
+rm -rf env
+virtualenv -p python3.9 .venv
+. ./.venv
+. ./.venv/bin/activate
+python --version
+pip --version
+pip freeze
+. code .
+source /Users/m4rch/python/WebScrap/scrap/bin/activate
+pip freeze
+deactivate
+ls -la
+cd scrap
+ls
+cd ..
+rm -rf scrap
+source /Users/m4rch/python/WebScrap/.venv/bin/activate
+ /usr/bin/env /Users/m4rch/python/WebScrap/.venv/bin/python /Users/m4rch/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 64674 -- /Users/m4rch/python/WebScrap/scrap_local_dec21.py 
+ /usr/bin/env /Users/m4rch/python/WebScrap/.venv/bin/python /Users/m4rch/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 64674 -- /Users/m4rch/python/WebScrap/scrap_local_dec21.py 
+source /Users/m4rch/python/WebScrap/.venv/bin/activate
+pip freeze
+mkdir back
+pip install bs4
+pip install re pandas csv os time
+pip install pandas csv os time
+pip install urllib
+pip install datetime
+python --version
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+clear
+clear
+clear
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+clear
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+clear
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+python scrap_local_dec21.py
+source /Users/m4rch/python/jeux_amanda/.venv/bin/activate
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+cd python/WebScrap
+ls
+. ./.venv/bin/activate
+code .
+pwd
+mkdir environments
+cd environments
+python --version
+python3 --version
+python3 -m venv jupenv
+. jupenv/bin/activate
+pip --version
+pip install jupyter
+jupyter notebook
+brew install pycharm
+pyCharm
+pycharm
+git --version
+git clone https://github.com/jolegrand10/checkpydevconfig.git
+ls
+cd checkpydevconfig
+ls
+cd ..
+python ./checkpydevconfig/script.py
+brew remove pycharm
+python ./checkpydevconfig/script.py
+ls -la
+ls /Applications | grep py
+ls /Applications | grep py
+ls /Applications | grep Charm
+ls /Applications | grep PyCharm >> m4rch@MacBook-Pro-001.log
+ls --help
+which PyCharm
+which PyCharm\ CE
+pycharm
+PyCharm
+top
+pycharm
+locate pycharm
+sudo lauchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate pycharm
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate pycharm
+realpath /Applications/PyCharm\ CE.app/ >> m4rch@MacBook-Pro-001.log
+brew install coreutils
+realpath /Applications/PyCharm\ CE.app/ >> m4rch@MacBook-Pro-001.log
+cd ..
+ls
+cd python
+ls
+cd jeux_amanda
+ls
+deactivate
+. .venv/bin/activate
+code .
+ls
+ls -la
+. .venv/bin/activate
+python manage.py runserver
+python manage.py runserver
+pwd
+ls
+cd python
+ls
+cd jeux_amanda
+ls
+code .
+python --version
+python3
+/Volumes/M4RCH_BCK/EmulZ
+cd /Volumes/M4RCH_BCK/EmulZ
+ls
+unrar x -vf PC\ Engine.rar
+ls
+cd environments
+ls
+. jupenv/bin/activate
+jupyter
+ls
+jupyter-book build python2022/
+jupyter-notebook build python2022/
+ls
+jupyter-notebook build
+jupyter-notebook
+ls
+. jupenv/bin/activate
+git init
+echo "# python2022" >> README.md
+git init
+git add .
+ls -la
+rm -rf .git
+ls -la
+git init
+git add .
+ls -la
+cat README.md
+cd .git
+ls -la
+cat description
+cd ..
+ls
+ls -la
+git remote add origin git@github.com:m4rchsp/python2022.git
+ls
+git add .
+git branch -M main
+git branch -M main
+git remote add origin git@github.com:m4rchsp/python2022.git
+git branch -M main
+git push -u origin main
+ls
+ls -la
+git add .
+git commit
+jupiter-notebook
+jupyter-notebook

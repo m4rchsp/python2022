@@ -1,0 +1,21 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+gitclone https://github.com/ScienceKot/Enigma.git
+git clone https://github.com/ScienceKot/Enigma.git
+git --version
+git clone https://github.com/jolegrand10/checkpydevconfig.git
+git init
+git init
+git add .
+rm -rf .git
+git init
+git add .
+cd .git
+git remote add origin git@github.com:m4rchsp/python2022.git
+git add .
+git branch -M main
+git branch -M main
+git remote add origin git@github.com:m4rchsp/python2022.git
+git branch -M main
+git push -u origin main
+git add .
+git commit
